@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okhotsk-hr&layout=compact&langs_count=10&theme=default&hide_border=false)
 
