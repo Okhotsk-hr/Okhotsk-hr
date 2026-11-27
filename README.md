@@ -1,15 +1,22 @@
 
-## Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Okhotsk-hr&layout=compact&langs_count=10)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Okhotsk-hr&show_icons=true&theme=default)
-
-## GitHub Streak Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Okhotsk-hr)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Most Used Languages</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okhotsk-hr&layout=compact&langs_count=10" width="100%" alt="Most Used Languages">
+    </td>
+    <td align="center" width="33%">
+      <strong>GitHub Stats</strong><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Okhotsk-hr&show_icons=true&theme=default" width="100%" alt="GitHub Stats">
+    </td>
+    <td align="center" width="33%">
+      <strong>GitHub Streak Stats</strong><br>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Okhotsk-hr" width="100%" alt="GitHub Streak Stats">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <!--
